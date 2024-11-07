@@ -20,7 +20,7 @@ do{
                 if(!drawCard){
                     alert('Não há nenhuma carta.')
                 }else{
-                    alert(`Você puxou um(a) ${draw.Card}`)
+                    alert(`Você puxou um(a) ${drawCard}`)
                 }
                 break
             case '3' :
